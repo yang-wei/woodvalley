@@ -1,8 +1,8 @@
 {
-    "title": "Grayscale",
-    "name": "startbootstrap-grayscale",
+    "title": "Woodvalley",
+    "name": "Woodvalley",
     "version": "5.0.2",
-    "description": "A grayscale one page HTML theme for Bootstrap.",
+    "description": "Woodvalley",
     "keywords": [
         "css",
         "sass",
@@ -40,5 +40,9 @@
         "gulp-rename": "1.4.0",
         "gulp-sass": "4.0.1",
         "gulp-uglify": "3.0.1"
+    },
+    "scripts": {
+      "dev": "gulp dev",
+      "build": "gulp"
     }
 }
